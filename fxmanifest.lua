@@ -15,11 +15,12 @@ shared_scripts {
   '@jim_bridge/functions.lua',
   '@jim_bridge/wrapper.lua',
   '@jim_bridge/crafting.lua',
-	'shared/*.lua',
 }
+
 server_script { 
   'server.lua'
 }
+
 client_scripts { 
   'client.lua'
 }
