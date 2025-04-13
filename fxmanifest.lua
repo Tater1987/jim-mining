@@ -25,4 +25,5 @@ client_scripts {
   'client.lua'
 }
 
+dependency 'jim_bridge'
 lua54 'yes'
